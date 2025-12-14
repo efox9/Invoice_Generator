@@ -19,6 +19,6 @@ output/ - generated invoices
 3. A PDF invoice is generated and stored
 
 ## Status
-🚧 In progress
+Fully Functioning & 100% working
 
 
